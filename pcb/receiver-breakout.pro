@@ -1,4 +1,4 @@
-update=Tuesday, February 09, 2016 'PMt' 04:35:07 PM
+update=Wednesday, March 30, 2016 'AMt' 12:07:42 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
 LibName31=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/ti-gate
 LibName32=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/fairchild
+LibName33=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/additional-74xx

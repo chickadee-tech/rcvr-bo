@@ -1,5 +1,5 @@
 part name,symbol,size (imp),max current,unit price,units per build,units in stock,order total,Manufacturer ID,source url,datasheet,datasheet2,,,
-80 pin header,PORT_IN1,,,$1.35,1,1,$1.35,DF40C-80DP-0.4V(51),http://www.digikey.com/product-detail/en/DF40C-80DP-0.4V(51)/H11632CT-ND/1969511,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,,Total Base Cost,$12.25
+80 pin header,PORT_IN1,,,$1.35,1,1,$1.35,DF40C-80DP-0.4V(51),http://www.digikey.com/product-detail/en/DF40C-80DP-0.4V(51)/H11632CT-ND/1969511,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,,Total Base Cost,$12.32
 80 pin receptacle (3.0mm),PORT_OUT1,,,$2.76,1,3,$2.76,DF40HC(3.0)-80DS-0.4V(51),http://www.digikey.com/product-detail/en/DF40HC(3.0)-80DS-0.4V(58)/H124954CT-ND/5399048,N,,price ranges 1.40 - 2.50,,
 AND/OR gate,PORT_ANDOR1,,,$0.25,1,2,$0.25,SN74LVC1G0832DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G0832DCKR/296-18754-1-ND/863884,,http://www.ti.com/lit/ds/symlink/sn74lvc1g0832.pdf,,,
 multifunction gate,"PORT_XOR1, PORT_INV1",,,$0.14,2,6,$0.28,SN74LVC1G58DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G58DCKR/296-15577-1-ND/571153,,http://www.ti.com/lit/ds/symlink/sn74lvc1g58.pdf,,,
@@ -15,7 +15,7 @@ n-channel mosfet,Q1,"TO-236-3, SC-59, SOT-23-3",220mA continuous,$0.09,1,59,$0.0
 R 10k,"R1, R5",603,,$0.01,2,979,$0.02,RC0603FR-0710KL,http://www.digikey.com/product-detail/en/RC0603FR-0710KL/311-10.0KHRCT-ND/729827,MF-RES-0603-10K,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,,,
 R 1k,"R2, R3, R4",603,,$0.01,3,993,$0.03,RC0603FR-071KL,http://www.digikey.com/product-detail/en/RC0603FR-071KL/311-1.00KHRCT-ND/729790,MF-RES-0603-1K,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,,,
 4 XOR,U1,14-VQFN,,$0.39,1,6,$0.39,SN74AHC86RGYR,http://www.digikey.com/product-detail/en/SN74AHC86RGYR/296-13905-1-ND/521431,N,http://www.ti.com/lit/ds/symlink/sn74ahc86.pdf,,,
-Tristate Buffer,U2,SC70,,$0.32,1,9,$0.32,NC7SV125P5X,http://www.digikey.com/product-detail/en/NC7SV125P5X/NC7SV125P5XCT-ND/2053148,N,https://www.fairchildsemi.com/datasheets/NC/NC7SZ125.pdf,,,
+Dual Three State Buffer,U2,8-TSSOP,8ma,$0.38,1,0,$0.38,"74AHC2G125DP,125","http://www.digikey.com/product-detail/en/nxp-semiconductors/74AHC2G125DP,125/568-8794-1-ND/2813712",N,http://www.nxp.com/documents/data_sheet/74AHC_AHCT2G125.pdf,,,
 3.3v regulator,U3,SOT23-5,0.3A,$0.49,1,8,$0.49,TLV70233DBVR,http://www.digikey.com/product-detail/en/TLV70233DBVR/296-32415-1-ND/3505572,MF-REG-SOT235-3.3V-300mA,http://www.ti.com/lit/ds/symlink/tlv702.pdf,,,
 Octal Buffer,U4,tssop20,,$0.36,1,9,$0.36,SN74LVC244APWR,http://www.digikey.com/product-detail/en/SN74LVC244APWR/296-1230-1-ND/276498,N,http://www.ti.com/lit/ds/symlink/sn74lvc244a.pdf,,,
 Receiver Breakout v1,PCB,,,$3.37,1,3,$3.37,CKD-RBO-V1,,N,,,,
