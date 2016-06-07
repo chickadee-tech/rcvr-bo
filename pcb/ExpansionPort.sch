@@ -289,9 +289,9 @@ F 3 "" H 9000 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 9400 1750 0    60   ~ 0
-si2c_SDA
+i2c_SDA
 Text Label 9400 1900 0    60   ~ 0
-si2c_SCL
+i2c_SCL
 Text Label 8200 2050 2    60   ~ 0
 3V3_0.3A_LL
 $Comp
