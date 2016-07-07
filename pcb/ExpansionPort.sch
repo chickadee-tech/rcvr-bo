@@ -349,7 +349,7 @@ F 3 "" H 7650 2600 60  0000 C CNN
 	1    7650 2650
 	1    0    0    -1  
 $EndComp
-Text Notes 7150 6950 0    157  ~ 0
+Text Notes 7400 7550 0    118  ~ 0
 Chickadee Expansion Port
 Text HLabel 4500 3500 0    60   Input ~ 0
 +5V
@@ -605,4 +605,6 @@ Text HLabel 3550 2300 2    60   Input ~ 0
 TIMG2_CH3
 Text HLabel 3550 2400 2    60   Input ~ 0
 TIMG2_CH4
+Text Notes 7050 7050 0    60   ~ 0
+Copyright 2016 Chickadee Tech LLC\n\nThis work is licensed under the Creative Commons Attribution 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n
 $EndSCHEMATC
