@@ -1,5 +1,5 @@
 # Chickadee Tech Receiver Breakout Polystack Mod #
-This mod connects an MPU-6500 to the base control board. It is not in active production.
+This is a breakout board designed for connecting a variety of Remote Control receivers to the control board. It supports Serial RX, PPM and PPM along with telemetry.
 
 ## Documentation ##
 See the [wiki](https://github.com/chickadee-tech/rcvr-bo/wiki) for documentation.
